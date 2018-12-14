@@ -1,6 +1,7 @@
 # vuedemo
 
 > A Vue.js project
+> It's a Vue + element-ui web applitation just for practise.
 
 ## Build Setup
 
